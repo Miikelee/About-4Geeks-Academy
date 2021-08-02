@@ -1,0 +1,52 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+  first_name: Michele
+  last_name: Pérez
+
+  motto: Trabajar y aprender de todo lo que hago cada día.
+
+  focus: Convertirme en un excelente web developer
+
+  email: mikele.apc.1995@gmail.com
+  phone: +56-976637409
+  linkedin: https://www.linkedin.com/in/michele-armando-p%C3%A9rez-caldera-08b219209/
+
+  github: https://github.com/Miikelee
+
+  langueajes:
+    idiom: English
+    level: Intermediate
+
+    idiom: Spanish
+    level: Nativ
+
+  interests: 
+    -item: Music
+
+    -item: Video Games 
+
+    -item: Teconology
+
+education: 
+  -degree: Bachiller en ciencias 
+
+  -university: Universidad de Carabobo
+
+  -time: 2012 - 2018
+
+  -details: Estudie Bioanálisis en la universidad de carabobo durante 5 años pero no pude culminar la carrera.
+
+skills:
+  toolset:
+    - name: Python 
+      level: 40%
+
+    - name: Javascript 
+      level: 20%
+
+    - name: HTML5 & CSS
+        evel: 70%
+
